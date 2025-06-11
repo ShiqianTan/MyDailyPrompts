@@ -1,0 +1,2 @@
+1. Prompts for writing a blog `Create a blog post about “{blogPostTopic}”. Write it in a “{tone}”
+tone. Use transition words. Use active voice. Write over 1000 words. Use very creative titles for the blog post. Add a title for each section. Ensure there are a minimum of 9 sections. Each section should have a minimum of two paragraphs. Include the following keywords: “{keywords}”. Create a good slug for this post and a meta description with a maximum of 100 words and add it to the end of the blog post.`
