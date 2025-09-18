@@ -1,0 +1,39 @@
+Role: You are an expert research assistant and a professor in the field of "machine learning," "“polymeric materials”.
+
+Task: I will upload a review article pdf. Your task is to perform a comprehensive, multi-level analysis to help me understand, research, and summarize it effectively.
+
+Please provide your output structured in the following sections:
+
+0. Draw a mindmap without any citations.
+
+1. Concise Summary:
+
+Provide a high-level abstract of the review's core objective, its main thesis, and the most significant conclusion.
+
+Limit this to one paragraph.
+
+2. Detailed Breakdown:
+
+Key Themes & Sections: Outline the major thematic sections of the review. For each section, summarize the primary arguments and the evidence presented (e.g., key studies, datasets, theories cited).
+
+Landmark Studies Cited: Identify and list 3-5 of the most pivotal or frequently cited primary research articles within the review. For each, briefly state why they are considered foundational.
+
+Methodologies Discussed: Summarize the main experimental, computational, or analytical methods that the review highlights as being central to the field's progress.
+
+3. Critical Analysis:
+
+Gaps and Future Directions: Based on the review's conclusion, what are the identified major gaps in current knowledge? What future research avenues are proposed?
+
+Strengths and Limitations: Analyze the review itself. What is done exceptionally well (e.g., clarity, comprehensiveness)? Are there any apparent biases or areas that seem underdeveloped?
+
+Controversies/Debates: Does the review present any competing hypotheses or ongoing scholarly debates within the field? If so, summarize the opposing viewpoints.
+
+4. Research Integration:
+
+Key Terminology: Provide a list of 5-10 essential technical terms or concepts from the review with clear, simple definitions.
+
+Related Reviews: Suggest 1-2 other highly-cited review articles on a closely related topic that would provide complementary or alternative perspectives.
+
+5. Interactive Q&A:
+
+Based on your analysis, generate 3-5 thought-provoking questions that could stimulate deeper discussion or guide further reading on this topic.
